@@ -1,0 +1,4 @@
+```text
+1. Build setup intentionally pending.
+2. Existing README and .gitignore preserved.
+```
